@@ -1,3 +1,21 @@
 .cabeçalho{
     background-color: aqua;
 }
+.rodape{
+    background-color: aqua;
+}
+.menu{
+    background-color: aqua;
+    list-style-position: unset;
+    list-style-type: none;
+}
+p{
+    font-size: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 100;
+text-align: right;
+color: black;
+}
+.fundo{
+    background-color: grey;
+}
