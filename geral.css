@@ -1,13 +1,15 @@
 .cabeçalho{
     background-color: aqua;
+    top: auto;
 }
 .rodape{
     background-color: aqua;
 }
 .menu{
+    top: auto;
     background-color: aqua;
-    list-style-position: outside
-    
+    display: inline;
+
 }
 p{
 font-size: 10px;
@@ -15,7 +17,12 @@ font-family: Arial, Helvetica, sans-serif;
 font-weight: 100;
 text-align: right;
 color: black;
-
+border: 5px solid black;
+nav{
+    display: inline-block;
+    width: 10px;
+    list-style-type: none;
+}
 
 }
 .fundo{
