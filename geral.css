@@ -1,4 +1,4 @@
-.cabeçalho {
+/*.cabeçalho {
     background-color: aqua;
     top: auto;
 }
@@ -12,7 +12,9 @@
     top: auto;
     background-color: aqua;
     display: inline;
-
+    padding: 0px;
+    margin: 0px;
+    content: 50px;
 }
 
 p {
@@ -39,7 +41,7 @@ li {
 }
 
 .img {
-    width: 50px;
+    width: 100px;
 }
 
 .fundo {
