@@ -1,20 +1,22 @@
-/*.cabeçalho {
-    background-color: aqua;
-    top: auto;
+.cabeçalho {
+    background-color: #EB4FE5;
+    margin-bottom: 10px;
 }
 
 .rodape {
-    background-color: aqua;
+    background-color: #EB4FE5;
+    margin-top: 200px;
+    color: #420001;
 
 }
-
+h1{
+margin-left: 600px;
+font-size: 40px;
+color: #420001;
+}
 .menu {
-    top: auto;
-    background-color: aqua;
-    display: inline;
-    padding: 0px;
-    margin: 0px;
-    content: 50px;
+
+    
 }
 
 p {
@@ -23,13 +25,14 @@ p {
     font-weight: 100px;
     text-align: left;
     left: 40px;
-    color: black;
-    border: 5px solid black;
+    color: #420001;
+    
 }
 
 ul {
     list-style-type: none;
-    background-color: aqua;
+    background-color: #EB4FE5;
+    color: #420001;
 }
 
 li {
@@ -42,8 +45,9 @@ li {
 
 .img {
     width: 100px;
+    margin-right: 50px;
 }
 
 .fundo {
-    background-color: beige;
+    background-color: #FFCAF4;
 }
