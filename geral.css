@@ -7,12 +7,16 @@
     background-color: #EB4FE5;
     margin-top: 200px;
     color: #420001;
+    font-weight: 700;
+    font-size: larger;
+    text-align: center;
+
 
 }
 h1{
-margin-left: 600px;
 font-size: 40px;
 color: #420001;
+text-align: center;
 }
 .menu {
 
@@ -33,6 +37,9 @@ ul {
     list-style-type: none;
     background-color: #EB4FE5;
     color: #420001;
+    font-weight: 700;
+    font-size: larger;
+    text-decoration-color: #420001;
 }
 
 li {
@@ -41,11 +48,14 @@ li {
     height: 100px;
     padding: 5px;
     content: 10px;
+    text-align: center;
+    
 }
 
 .img {
     width: 100px;
     margin-right: 50px;
+    margin-left: 100px;
 }
 
 .fundo {
