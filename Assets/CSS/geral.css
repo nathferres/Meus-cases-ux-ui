@@ -21,6 +21,7 @@ text-align: center;
 }
 .menu ul li{
     display: inline;
+    text-decoration: none;
    
 
     
