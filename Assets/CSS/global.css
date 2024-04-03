@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: 0;
+}
+
+.fundo{
+background-color: #FFCAF4;
+}
+
+.cabeçalho{
+    background-color: #e626df;
+    padding: 10px;
+}
+
+.cabeçalho img {
+    width: 70px;
+}
+
+.cabeçalho h1{
+    display: inline;
+    padding: 30px;
+    color: #420001;
+}
+
+.menu{
+    margin-top: 0;
+    background-color: #e626df;
+    padding: 0px 20px;
+    font-weight: bold;
+    color: #1E152A;
+}
+
+.menu a:visited{
+    color: #420001;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 1px 7px;
+}
+
+.menu ul li:hover{
+    border: 2px solid #FFCAF4;
+}
