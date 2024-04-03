@@ -1,0 +1,21 @@
+main{
+    padding: 10px;
+}
+
+p{
+    color: #1E152A;
+    padding: 10px 5px;
+    font-size: 2rem;
+    
+}
+
+.teste div{
+    display: inline-block;
+    width: 40%;
+}
+
+.img{
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}

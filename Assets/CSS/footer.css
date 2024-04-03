@@ -1,0 +1,15 @@
+.rodape{
+    background-color: #EB4FE5;
+    color: #420001;
+    font-weight: bold;
+    padding: 0px 10px;
+}
+
+.rodape img{
+    width: 50px;
+    padding: 10px 20px;
+}
+
+.rodape a{
+    text-decoration: none;
+}
