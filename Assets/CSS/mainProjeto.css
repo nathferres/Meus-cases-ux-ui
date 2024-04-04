@@ -1,8 +1,6 @@
-.divisao{
-    display: inline;
+.teste{
+    display: flex;
+    padding: 10px;
 }
 
 
-/*.teste2 div{
-    display: inline;
-}
