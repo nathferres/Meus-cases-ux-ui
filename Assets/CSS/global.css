@@ -22,6 +22,7 @@ background-color: #FFCAF4;
     display: inline;
     padding: 30px;
     color: #420001;
+    text-align: center;
 }
 
 .menu{
@@ -52,7 +53,7 @@ background-color: #FFCAF4;
 .grid{
     display grid;
     height: 100%vh;
-    grid-template-rows: 1fr fr fr fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
 
