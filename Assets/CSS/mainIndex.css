@@ -9,13 +9,14 @@ p{
     
 }
 
-.teste div{
-    display: inline-block;
-    width: 40%;
-}
-
 .img{
     width: 30%;
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.teste div{
+    display: inline-block;
+    width: 40%;
+}
+
