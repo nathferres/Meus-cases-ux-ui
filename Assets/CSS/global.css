@@ -48,3 +48,16 @@ background-color: #FFCAF4;
 .menu ul li:hover{
     border: 2px solid #FFCAF4;
 }
+
+.grid{
+    display grid;
+    height: 100%vh;
+    grid-template-rows: 1fr fr fr fr;
+}
+
+
+
+
+
+
+
