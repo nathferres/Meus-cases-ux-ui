@@ -5,12 +5,13 @@
     padding: 0px 10px;
 }
 
+
+.rodape a{
+    text-decoration: none;
+}
+
 .rodape img{
     width: 50px;
     padding: 10px 20px;
     margin-bottom: 50px;
-}
-
-.rodape a{
-    text-decoration: none;
 }
