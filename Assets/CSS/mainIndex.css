@@ -4,15 +4,17 @@ main{
 
 p{
     color: #1E152A;
-    padding: 10px 5px;
+    padding: 10px 20px;
     font-size: 2rem;
-    
+    margin-left: 20%;
+    text-align: center;
 }
 
 .img{
     width: 100%;
     padding-left: 10px;
     padding-right: 10px;
+    margin-right: 20%;
 }
 
 .conteudo{
