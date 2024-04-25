@@ -5,8 +5,9 @@
     border: 0;
 }
 
-.fundo{
+.fundo .body{
 background-color: #FFCAF4;
+display: inline;
 }
 
 .cabeçalho{
@@ -49,40 +50,42 @@ background-color: #FFCAF4;
     border: 2px solid #FFCAF4;
 }
 
+
+
 .grid{
     display: grid;
     height: 100%vh;
     width: 100%vw;
-    grid-template-rows: repeat(4, 1fr);
-    grid-template-areas: 
-    "header"
-    "nav"
-    "main"
-    "footer";
+    grid-template-areas:
+        "header"
+        "nav"
+        "main"
+        "footer";
+        display: inline;
 }
 
-
-header {
-    grid-area: header;
-}
-footer {
-    grid-area: footer;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
-}
-main {
-    grid-area: produtos;
+head{
+    grid-area: cabeçalho;
+    
 }
 
-nav {
+nav{
     grid-area: nav;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
+main{
+    grid-area: main;
+}
 
+footer{
+    grid-area: rodape;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
 
-
-
-
+/*header h1{
+    text-align: center;
+}

@@ -10,13 +10,13 @@ p{
 }
 
 .img{
-    width: 30%;
+    width: 100%;
     padding-left: 10px;
     padding-right: 10px;
 }
 
-.conteudo div{
-    display: inline-block;
+.conteudo{
+    display: flex;
     width: 40%;
 }
 
