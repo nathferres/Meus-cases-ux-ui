@@ -6,7 +6,7 @@ main{
 
 #texto{
     color: #1E152A;
-    padding: 10px 50px;
+    padding: 30px 80px;
     font-size: 2rem;
     margin-left: 35%;
     text-align: center;
@@ -14,7 +14,7 @@ main{
 
 .img{
     width: 100%;
-    padding-left: 40px;
+    padding-left: 60px;
     padding-right: 60px;
     margin-right: 20%;
 }
