@@ -66,6 +66,7 @@ display: inline;
 
 head{
     grid-area: cabeçalho;
+   
     
 }
 
@@ -86,6 +87,4 @@ footer{
     
 }
 
-/*header h1{
-    text-align: center;
-}
+

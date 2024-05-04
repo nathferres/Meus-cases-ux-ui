@@ -4,13 +4,13 @@ main{
 
 
 
-/*p{
+#texto{
     color: #1E152A;
-    padding: 10px 20px;
+    padding: 10px 50px;
     font-size: 2rem;
     margin-left: 35%;
     text-align: center;
-}*/
+}
 
 .img{
     width: 100%;
