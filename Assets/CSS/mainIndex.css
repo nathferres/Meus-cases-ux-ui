@@ -9,7 +9,7 @@ main{
     padding: 30px 100px;
     font-size: 2rem;
     margin-left: 35%;
-    text-align: center;
+    
 
     
 }
@@ -28,3 +28,7 @@ main{
     width: 30%;
 }
 
+
+.teste{
+    display:inline
+}
