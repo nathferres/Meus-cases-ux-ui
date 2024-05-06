@@ -6,19 +6,20 @@ main{
 
 .texto{
     color: #1E152A;
-    padding: 30px 100px;
+    padding: 100px 200px;
     font-size: 2rem;
-    margin-left: 35%;
-    
+    margin-left: 60%;
+    width: 50%;
+    text-align: center;
 
-    
 }
 
+
 .img{
-    width: 175%;
+    width: 274%;
     padding-left: 60px;
     padding-right: 60px;
-    padding-top: 30%;
+    padding-top: 25%;
     margin-right: 245%;
 
 }
