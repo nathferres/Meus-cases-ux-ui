@@ -21,8 +21,9 @@ display: inline;
 
 .cabeçalho h1{
     display: inline;
-    padding: 30px;
+    padding: 500px;
     color: #420001;
+text-align: center;
 
 }
 
@@ -45,12 +46,12 @@ display: inline;
 .menu ul li {
     display: inline;
     margin: 1px 7px;
+
 }
 
 .menu ul li:hover{
     border: 2px solid #FFCAF4;
 }
-
 
 
 .grid{
@@ -67,13 +68,16 @@ display: inline;
 
 head{
     grid-area: cabeçalho;
+    display: flex;
+    flex-direction: row;
+
    
-    
 }
 
 nav{
     grid-area: nav;
     text-align: center;
+
 }
 
 main{
