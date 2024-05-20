@@ -1,6 +1,13 @@
 .conteudo{
     display: flex;
     padding: 10px;
+    margin-left: 20px;
+    row-gap: 30px;
 }
 
-
+p{
+    border: 5px solid grey;
+    padding-left: 50px;
+    margin: 30px;
+    
+}

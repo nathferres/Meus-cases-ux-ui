@@ -64,6 +64,7 @@ text-align: center;
         "main"
         "footer";
         display: inline;
+        gap: 10px;
 }
 
 head{
