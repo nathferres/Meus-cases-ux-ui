@@ -1,16 +1,9 @@
-.conteudo{
-    display: flex;
-    padding: 10px;
-    margin-left: 20px;
-    row-gap: 30px;
-}
+
 
 p{
-    /* border: 5px solid grey; */
     padding-left: 50px;
     margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
     font-weight: 400;
-    
 }
