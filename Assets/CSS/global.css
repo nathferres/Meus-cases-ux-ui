@@ -21,11 +21,12 @@ display: inline;
 
 .cabeçalho h1{
     display: inline;
-    padding: 252px;
+    padding: 400px;
     color: #420001;
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 3rem;
+text-align: center;
 
 }
 
@@ -74,6 +75,7 @@ head{
     grid-area: cabeçalho;
     display: flex;
     flex-direction: row;
+   
 
    
 }
