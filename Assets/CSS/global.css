@@ -68,16 +68,13 @@ text-align: center;
         "main"
         "footer";
         display: inline;
-        gap: 10px;
+        gap: 30px;
 }
 
 head{
     grid-area: cabeçalho;
     display: flex;
-    flex-direction: row;
-   
-
-   
+    flex-direction: row; 
 }
 
 nav{
