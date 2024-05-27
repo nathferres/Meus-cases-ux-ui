@@ -57,6 +57,10 @@ text-align: center;
     border: 2px solid #FFCAF4;
 }
 
+html, body{
+    min-height: 100%;
+}
+
 
 .grid{
     display: grid;
@@ -89,9 +93,10 @@ main{
 
 footer{
     grid-area: rodape;
-    display:flex;
+    display:flex; 
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-around; 
+    
     
 }
 

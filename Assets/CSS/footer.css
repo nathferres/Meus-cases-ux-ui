@@ -2,7 +2,10 @@
     background-color: #EB4FE5;
     color: #420001;
     font-weight: bold;
-    padding-top: 1.5rem;
+    position: absolute;
+line-height: 100px;
+width: 100%;
+height: 100px;
 
 }
 
