@@ -1,6 +1,4 @@
-
-
-p{
+section p{
     padding-left: 50px;
     margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -8,3 +6,7 @@ p{
     font-weight: 400;
     color: #1E152A;
 }
+
+   section p::first-letter{
+font-weight: bolder;
+    }
