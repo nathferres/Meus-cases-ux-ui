@@ -84,6 +84,7 @@ nav{
 
 main{
     grid-area: main;
+    padding: 5% 2%;
 }
 
 footer{
